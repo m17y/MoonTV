@@ -79,8 +79,7 @@
     },
     "jinyingzy": {
       "api": "https://jyzyapi.com/provide/vod/",
-      "name": "金鹰",
-      "detail": "https://hd.iapijy.com"
+      "name": "金鹰"
     }
   }
 }
